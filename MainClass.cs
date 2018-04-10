@@ -3,7 +3,7 @@ using System;
 namespace StartingPoint
 {
 	/// <summary>
-	/// Summary description for Class1.
+	/// Summary description for Main.
 	/// </summary>
 	class MainClass
 	{
