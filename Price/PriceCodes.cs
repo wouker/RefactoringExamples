@@ -1,4 +1,4 @@
-namespace StartingPoint
+namespace StartingPoint.Price
 {
     /// <summary>
     /// Price codes

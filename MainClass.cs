@@ -1,4 +1,5 @@
 using System;
+using StartingPoint.Price;
 
 namespace StartingPoint
 {

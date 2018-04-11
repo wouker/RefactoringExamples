@@ -84,13 +84,17 @@
     <Compile Include="Customer.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Price\ChildrenPrice.cs" />
+    <Compile Include="Price\Price.cs" />
     <Compile Include="MainClass.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Movie.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="PriceCodes.cs" />
+    <Compile Include="Price\NewReleasePrice.cs" />
+    <Compile Include="Price\PriceCodes.cs" />
+    <Compile Include="Price\RegularPrice.cs" />
     <Compile Include="Rental.cs">
       <SubType>Code</SubType>
     </Compile>
